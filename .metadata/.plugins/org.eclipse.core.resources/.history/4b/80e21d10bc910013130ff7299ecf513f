@@ -1,0 +1,9 @@
+package client.model;
+
+public class Place {
+
+	public Place() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

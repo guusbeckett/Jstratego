@@ -1,0 +1,9 @@
+package client.model;
+
+public class EnemyPiece {
+
+	public EnemyPiece() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
